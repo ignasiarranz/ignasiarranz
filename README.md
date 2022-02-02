@@ -1,6 +1,6 @@
 Hi, I’m @ignasiarranz
-- I’m interested in understanding how biological systems behave and anticipate their response to global impacts through modelling techniques
-- I’m looking to collaborate on biodiversity assessment in any biological group and spatial scale
+- I am a postdoctoral researcher interested in understanding how biological systems behave and anticipate their response to global impacts through modelling    techniques.
+- I’m looking to collaborate on biodiversity assessment in any biological group and spatial scale.
 - How to reach me ignasiarranz@gmail.com
 
 <!---
